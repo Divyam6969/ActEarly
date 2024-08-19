@@ -35,7 +35,7 @@ Project ActEarly allows multiple caregivers to collaboratively track the develop
 To get started with Project ActEarly:
 
 1. Download the latest APK from the repository: [ActEarly.apk](./ActEarly.apk).
-2. If you wish to explore or modify the source code, download the source code from: [ActEarly_SourceCode.zip](./ActEarly_SourceCode.zip).
+2. If you wish to explore or modify the source code, download the source code from: [ActEarly_SourceCode.zip](./ActEarly_Code.zip).
 
 ## Usage
 
