@@ -1,13 +1,45 @@
-![image](https://github.com/user-attachments/assets/afcc5b7f-15d0-465d-8522-7b1670ff9ebc)
-# Project ActEarly
+# <img src="https://github.com/user-attachments/assets/afcc5b7f-15d0-465d-8522-7b1670ff9ebc" width="200" height = "40"/> <img src="https://github.com/user-attachments/assets/b27f35a0-b9a0-4997-b9a7-5532057cd1b5" width="200" height = "40"/> 
 
-**Project ActEarly** is a comprehensive child development milestone tracker app designed to help caregivers monitor and track the progress of children's developmental milestones. This app was developed using Flutterflow during the Mitacs Globalink Research Internship by Divyam Malik.
+# Project ActEarly  
+
+**Project ActEarly**  is a children’s milestone tracker app developed using FlutterFlow during the Mitacs Globalink Research Internship by Divyam Malik. The motivation behind ActEarly is to provide healthcare professionals and caregivers with an efficient tool for tracking developmental milestones in children, ensuring adherence to Canadian data privacy and security standards. The app offers dual storage options, allowing users to store data locally or in the cloud, with the cloud server located in Montreal, Canada, to address privacy concerns. One of the unique features of ActEarly is the ActEarly ID, which enables multiple caregivers, such as parents, grandparents, and nannies, to collaboratively track the same child’s milestones. This shared access feature is exclusive to cloud storage users. Additionally, only the parent who registered the child can switch between local and cloud storage, ensuring controlled data management. ActEarly monitors various developmental milestones, including fine motor, gross motor, social/language, and cognitive milestones, using data from reputable Canadian government sources. The app also includes a visually engaging flippable carouselon the homepage, featuring AI-generated images to illustrate milestones. Furthermore, ActEarly integrates a chatbot powere by the Gemini API to provide users with instant answers to questions related to child development milestones.This [Document](https://drive.google.com/file/d/1S9yNptzwJg7vqaT-6dPjr89ymrSGNhkU/view?usp=sharing)
+ details the app’s design goals, system architecture, implementation specifics, and the comprehensive development process, highlighting how ActEarly aims to support child development tracking in Canadian hospitals.
 <br>
 
+[Documentation Link](https://drive.google.com/file/d/1S9yNptzwJg7vqaT-6dPjr89ymrSGNhkU/view?usp=sharing)
+<br><br>
+[ActEarly.apk](https://drive.google.com/file/d/1dlmxXABYhbWAlvpCXQS7c2_a10mmSSCo/view?usp=sharing)
+<br><br>
 
-## Overview
+## Snapshots
+### Snapshot 1 Login and Signup Page
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/4af0ed7a-c651-44e6-9dc8-fa74ae882133">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/4f75947c-61fa-4796-9f90-ae3078a24527">
 
-Project ActEarly allows multiple caregivers to collaboratively track the development of a child by using an innovative ActEarly ID feature. The app supports both cloud and local storage options, ensuring data privacy and security, especially for users in Canada. It offers a user-friendly interface with an attractive flippable carousel and a chatbot powered by the Gemini API to answer questions related to child development milestones.
+### Snapshot 2 Home Page with flippable carousel and AI Image when flipped
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/83d8c809-2f68-4d03-a429-8439e9152263">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/9de2d371-00d3-4d67-b740-7439adc95947">
+
+### Snapshot 3 Add children page (add new child/fetch already added child using ActEarly ID)
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/084b3747-c0d9-4123-80f0-d72f4d1c3827">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/18a8c2d8-f73c-4518-aa59-c49908ae6192">
+
+### Snapshot 4 Manage Children Page to manage children developemental Milestones
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/d0c7a792-439e-4e1a-b82d-62561f8c7af5">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/e3375c90-43a0-4947-bac4-553e52e8c0da">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/d2230bd4-6cc5-4c74-b3c0-dd21847dab3e">
+
+### Snapshot 5 Profile page with features like Change Language, Switch Dark/Light Mode, Switch Storage from Cloud to Local and vice versa
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/401ccbf1-8544-42d0-8108-8d0706a38db6">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/f936be2f-dff1-4ab9-8169-5258d1bf3045">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/b877a909-07ac-4d93-9c73-f8a8f66249f3">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/104b5128-6bf4-44f9-a1e4-8f75d4689ead">
+
+### Snapshot 6 ActEarly AI with Google Gemini Backend
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/64e08434-dfaf-48a8-8925-c1187879caad">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/c93f3142-420c-41d9-898d-0f044fac2646">
+
+
 
 ## Features
 
